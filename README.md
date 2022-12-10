@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Allyf Linek
-- 🔭 Hoje eu trabalho com Bancos de Dados Relacionais 
-- 🌱 Estudando SQL SERVER e JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje eu trabalho com Bancos de Dados Relacionais e  com Bussines  Intelligence
+- 🌱 Estudando Sql Server e JavaScript
+- 😄 Pronouns: ele/dele 
+
 
 
 <div align="center">
